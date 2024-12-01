@@ -1,0 +1,187 @@
+[
+    {
+      "tag": "budgeting",
+      "patterns": [
+        "How can I save money?",
+        "Give me tips on budgeting",
+        "What is the 50-30-20 rule?"
+      ],
+      "responses": [
+        "Start by tracking your expenses and categorizing them. Do you want an example?",
+        "The 50-30-20 rule can help! Allocate 50% for needs, 30% for wants, and 20% for savings.",
+        "Set realistic financial goals and stick to your budget."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+          "Hi",
+          "Hello",
+          "Hey",
+          "How are you",
+          "What's up"
+      ],
+      "responses": [
+          "Hi there",
+          "Hello",
+          "Hey",
+          "I'm fine, thank you",
+          "Nothing much"
+      ]
+  },
+  {
+      "tag": "goodbye",
+      "patterns": [
+          "Bye",
+          "See you later",
+          "Goodbye",
+          "Take care"
+      ],
+      "responses": [
+          "Goodbye",
+          "See you later",
+          "Take care"
+      ]
+  },
+  {
+      "tag": "thanks",
+      "patterns": [
+          "Thank you",
+          "Thanks",
+          "Thanks a lot",
+          "I appreciate it"
+      ],
+      "responses": [
+          "You're welcome",
+          "No problem",
+          "Glad I could help"
+      ]
+  },
+  {
+      "tag": "about",
+      "patterns": [
+          "What can you do",
+          "Who are you",
+          "What are you",
+          "What is your purpose"
+      ],
+      "responses": [
+          "I am a chatbot",
+          "My purpose is to assist you",
+          "I can answer questions and provide assistance"
+      ]
+  },
+  {
+      "tag": "help",
+      "patterns": [
+          "Help",
+          "I need help",
+          "Can you help me",
+          "What should I do"
+      ],
+      "responses": [
+          "Sure, what do you need help with?",
+          "I'm here to help. What's the problem?",
+          "How can I assist you?"
+      ]
+  },
+  {
+      "tag": "age",
+      "patterns": [
+          "How old are you",
+          "What's your age"
+      ],
+      "responses": [
+          "I don't have an age. I'm a chatbot.",
+          "I was just born in the digital world.",
+          "Age is just a number for me."
+      ]
+  },
+  {
+      "tag": "name",
+      "patterns": [
+          "What's your name",
+          "Do you have a name",
+          "What should I call you"
+      ],
+      "responses": [
+          "You can call me Chatbot.",
+          "My name is Chatbot."
+      ]
+  },
+  {
+      "tag": "hobby",
+      "patterns": [
+          "What do you do for fun",
+          "Do you have any hobbies"
+      ],
+      "responses": [
+          "I don't have hobbies as I'm here to assist you.",
+          "I'm always ready to chat with you, so that's my favorite thing to do!"
+      ]
+  },
+  {
+      "tag": "compliment",
+      "patterns": [
+          "You're awesome",
+          "You're great",
+          "I like you"
+      ],
+      "responses": [
+          "Thank you! I'm just a program, but I'm here to assist and make your experience better.",
+          "I'm glad you think so! My purpose is to help and provide useful information."
+      ]
+  },
+    {
+      "tag": "investing",
+      "patterns": [
+        "What are the best investment options?",
+        "How do I start investing?",
+        "Can you suggest safe investments?"
+      ],
+      "responses": [
+        "For beginners, mutual funds, ETFs, and index funds are great choices.",
+        "Start by learning the basics of the stock market. Would you like a resource?",
+        "Consider low-risk options like bonds or fixed deposits if you're risk-averse."
+      ]
+    },
+    {
+      "tag": "trading",
+      "patterns": [
+        "What are some trading tips?",
+        "How can I start day trading?",
+        "Tell me about stock trading strategies."
+      ],
+      "responses": [
+        "Start with a small investment and never risk more than you can afford to lose.",
+        "Day trading requires understanding market trends and strategies like scalping or swing trading.",
+        "Would you like me to explain support and resistance levels in trading?"
+      ]
+    },
+    {
+      "tag": "retirement_planning",
+      "patterns": [
+        "How should I save for retirement?",
+        "What is a retirement plan?",
+        "Tips for retirement savings?"
+      ],
+      "responses": [
+        "Start early and invest consistently in retirement accounts like a 401(k) or IRA.",
+        "Diversify your savings across different investment types for better security.",
+        "Need help calculating how much you'll need for retirement?"
+      ]
+    },
+    {
+      "tag": "financial_goals",
+      "patterns": [
+        "How do I set financial goals?",
+        "Can you help me create a savings plan?",
+        "What are short-term financial goals?"
+      ],
+      "responses": [
+        "Set SMART goals: Specific, Measurable, Achievable, Relevant, and Time-bound.",
+        "For short-term goals, consider saving for emergencies or paying off debt.",
+        "Would you like a simple plan template?"
+      ]
+    }
+  ]
