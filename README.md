@@ -7,6 +7,7 @@ Text-based conversational chatbot.
 Natural Language Processing for understanding user inputs.
 Easy integration with front-end or communication platforms.
 Modular and scalable architecture for additional features.
+
 🛠️ Technologies Used
 Programming Language: Python
 Libraries and Frameworks:
@@ -14,19 +15,7 @@ NLTK (Natural Language Toolkit)
 Scikit-learn
 Flask (for integration if applicable)
 Development Tools: Jupyter Notebook/VS Code
-📂 Folder Structure
-php
-Copy code
-Chatbot/
-│
-├── data/              # Dataset used for training the chatbot
-├── models/            # Pre-trained or custom-trained NLP models
-├── app/               # Flask or any other backend framework (if applicable)
-├── utils/             # Helper functions for preprocessing, etc.
-├── templates/         # Frontend templates (if applicable)
-├── static/            # Static files like CSS/JS (if applicable)
-├── main.py            # Entry point for the chatbot application
-└── requirements.txt   # Dependencies
+
 🚀 How to Run
 Clone the Repository
 
