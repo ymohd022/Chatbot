@@ -11,7 +11,8 @@ Natural Language Processing for understanding user inputs.
 Easy integration with front-end or communication platforms.
 Modular and scalable architecture for additional features.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Programming Language: Python
 Libraries and Frameworks:
 NLTK (Natural Language Toolkit)
@@ -44,13 +45,16 @@ Add multi-language support.
 Integrate with messaging platforms like WhatsApp, Telegram, or web applications.
 Incorporate voice-to-text and text-to-voice functionality for a speech-based interface.
 
-🛡️ License
+🛡️ License:
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Contribution
+🤝 Contribution:
+
 Contributions are welcome! If you’d like to collaborate, feel free to fork the repository and submit a pull request.
 
-📨 Contact
+📨 Contact:
+
 For any queries or suggestions, feel free to reach out:
 
 Author: Mohd Yousuf
