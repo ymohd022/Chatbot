@@ -29,7 +29,7 @@ pip install -r requirements.txt
         </pre>
         <li><b>Run the Application:</b></li>
         <pre>
-python main.py
+streamlit run main.py
         </pre>
     </ol>
     <p>Once the application starts, you can interact with the chatbot via console or a connected interface.</p>
