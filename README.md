@@ -7,38 +7,26 @@
     <h1 style="text-align: center; color: #2c3e50;">Chatbot Using NLP</h1>
     <p style="text-align: center;">A project leveraging Natural Language Processing to create an interactive chatbot.</p>
     
-    <h2 style="color: #2980b9;">📄 Description</h2>
+    <h2>📄 Description</h2>
     <p>
         This project implements a chatbot using NLP techniques. The chatbot is designed to engage in human-like conversations,
         with potential applications in customer service, educational tools, and personal assistants.
     </p>
     
-    <h2 style="color: #2980b9;">🌟 Features</h2>
+    <h2>🌟 Features</h2>
     <ul>
         <li>Text-based interaction with users.</li>
         <li>Customizable and scalable NLP architecture.</li>
         <li>Easy integration into web applications or messaging platforms.</li>
     </ul>
     
-    <h2 style="color: #2980b9;">🛠️ Technologies Used</h2>
+    <h2>🛠️ Technologies Used</h2>
     <ul>
         <li><b>Programming Language:</b> Python</li>
         <li><b>Libraries:</b> NLTK, Scikit-learn</li>
         <li><b>Backend (Optional):</b> Flask</li>
     </ul>
-    
-    <h2 style="color: #2980b9;">📂 Folder Structure</h2>
-    <pre>
-Chatbot/
-├── data/              # Dataset for training
-├── models/            # NLP models
-├── app/               # Flask backend (if applicable)
-├── utils/             # Helper functions
-├── main.py            # Application entry point
-├── requirements.txt   # Dependencies
-    </pre>
-    
-    <h2 style="color: #2980b9;">🚀 How to Run</h2>
+    <h2>🚀 How to Run</h2>
     <ol>
         <li><b>Clone the Repository:</b></li>
         <pre>
