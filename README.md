@@ -15,7 +15,6 @@
     <ul>
         <li><b>Programming Language:</b> Python</li>
         <li><b>Libraries:</b> NLTK, Scikit-learn</li>
-        <li><b>Backend (Optional):</b> Flask</li>
     </ul>
     <h2>🚀 How to Run</h2>
     <ol>
