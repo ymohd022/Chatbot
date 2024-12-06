@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Chatbot Using NLP</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6;">
-    <h1 style="text-align: center; color: #2c3e50;">Chatbot Using NLP</h1>
+<h1>Chatbot Using NLP</h1>
     <p style="text-align: center;">A project leveraging Natural Language Processing to create an interactive chatbot.</p>
     
     <h2>📄 Description</h2>
