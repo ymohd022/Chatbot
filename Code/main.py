@@ -57,9 +57,9 @@ def main():
     if choice == "Home":
         st.write("Welcome to the chatbot. Please type a message and press Enter to start the conversation.")
 
-        # Check if the chat_log.csv file exists, and if not, create it with column names
-        if not os.path.exists('chat_log.csv'):
-            with open('chat_log.csv', 'w', newline='', encoding='utf-8') as csvfile:
+        # Check if the Chat_History.csv file exists, and if not, create it with column names
+        if not os.path.exists('Chat_History.csv'):
+            with open('Chat_History.csv', 'w', newline='', encoding='utf-8') as csvfile:
                 csv_writer = csv.writer(csvfile)
                 csv_writer.writerow(['User Input', 'Chatbot Response', 'Timestamp'])
 
@@ -78,7 +78,7 @@ def main():
             timestamp = datetime.datetime.now().strftime(f"%Y-%m-%d %H:%M:%S")
 
             # Save the user input and chatbot response to the chat_log.csv file
-            with open('chat_log.csv', 'a', newline='', encoding='utf-8') as csvfile:
+            with open('Chat_History.csv', 'a', newline='', encoding='utf-8') as csvfile:
                 csv_writer = csv.writer(csvfile)
                 csv_writer.writerow([user_input_str, response, timestamp])
 
@@ -116,7 +116,7 @@ def main():
         st.write("""
         The dataset used in this project is a collection of labelled intents and entities. The data is stored in a list.
         - Intents: The intent of the user input (e.g. "greeting", "budget", "about")
-        - Entities: The entities extracted from user input (e.g. "Hi", "How do I create a budget?", "What is your purpose?")
+        - Entities: The entities extracted from user input (e.g. "Hi", "How do I create a budget?", "How do I start investing?")
         - Text: The user input text.
         """)
 

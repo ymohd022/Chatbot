@@ -1,5 +1,5 @@
 [
-    {
+     {
       "tag": "budgeting",
       "patterns": [
         "How can I save money?",
@@ -145,6 +145,175 @@
         "Consider low-risk options like bonds or fixed deposits if you're risk-averse."
       ]
     },
+    {
+      "tag": "credit_score",
+      "patterns": [
+        "What is a credit score?",
+        "How can I improve my credit score?",
+        "Why is my credit score important?"
+      ],
+      "responses": [
+        "A credit score represents your creditworthiness to lenders. It typically ranges from 300 to 850.",
+        "To improve your credit score, pay bills on time, reduce credit card balances, and avoid opening too many accounts at once.",
+        "A good credit score can help you secure loans at lower interest rates. Do you need more tips?"
+      ]
+    },
+    {
+      "tag": "emergency_fund",
+      "patterns": [
+        "What is an emergency fund?",
+        "How much should I save for emergencies?",
+        "Why do I need an emergency fund?"
+      ],
+      "responses": [
+        "An emergency fund is a financial safety net for unexpected expenses like medical bills or car repairs.",
+        "Aim to save 3-6 months of your living expenses for a reliable emergency fund.",
+        "Having an emergency fund ensures you're financially prepared for life's surprises."
+      ]
+    },
+    {
+      "tag": "debt_management",
+      "patterns": [
+        "How do I manage my debts?",
+        "What is debt consolidation?",
+        "Should I pay off loans early?"
+      ],
+      "responses": [
+        "To manage debts effectively, prioritize high-interest debts and make consistent payments.",
+        "Debt consolidation combines multiple loans into one, often with a lower interest rate. Would you like more details?",
+        "Paying off loans early can save on interest, but make sure there are no prepayment penalties."
+      ]
+    },
+    {
+      "tag": "saving_tips",
+      "patterns": [
+        "What are some saving tips?",
+        "How can I save more money?",
+        "Can you suggest ways to reduce expenses?"
+      ],
+      "responses": [
+        "Automate your savings to ensure consistency. Start with a small percentage of your income.",
+        "Track your expenses to identify areas where you can cut back. Would you like an expense-tracking tool recommendation?",
+        "Consider switching to generic brands and eating out less to reduce expenses."
+      ]
+    },
+    {
+      "tag": "tax_planning",
+      "patterns": [
+        "How do I plan my taxes?",
+        "What are tax-saving investments?",
+        "Can you suggest ways to reduce my tax liability?"
+      ],
+      "responses": [
+        "Tax planning involves understanding deductions, exemptions, and credits. Do you need examples?",
+        "Tax-saving investments include 401(k)s, IRAs, and municipal bonds. Would you like detailed options?",
+        "To reduce tax liability, consider making charitable donations and maximizing retirement contributions."
+      ]
+    },
+    {
+      "tag": "financial_independence",
+      "patterns": [
+        "What is financial independence?",
+        "How can I achieve financial freedom?",
+        "Steps to become financially independent?"
+      ],
+      "responses": [
+        "Financial independence means having enough wealth to cover your expenses without needing a salary.",
+        "To achieve financial freedom, reduce debts, invest wisely, and create multiple income streams.",
+        "Start by setting long-term financial goals and sticking to a disciplined plan."
+      ]
+    },
+    {
+          "tag": "investment_basics",
+          "patterns": [
+            "What are the best investment options?",
+            "How can I start investing?",
+            "Tips for beginner investors?"
+          ],
+          "responses": [
+            "Start with safer options like index funds or bonds while building knowledge about riskier investments like stocks or real estate.",
+            "Determine your financial goals and risk tolerance before investing. You could begin with mutual funds or retirement accounts.",
+            "Investing requires patience. Diversify your portfolio and avoid impulsive decisions for better returns over time."
+          ]
+        },
+        {
+          "tag": "budgeting",
+          "patterns": [
+            "How do I create a budget?",
+            "Tips for budgeting effectively?",
+            "What is the 50/30/20 rule?"
+          ],
+          "responses": [
+            "To create a budget, list your income and expenses, and allocate funds to essentials, savings, and leisure.",
+            "Effective budgeting includes tracking expenses, avoiding unnecessary spending, and reviewing your budget regularly.",
+            "The 50/30/20 rule divides your income: 50% for needs, 30% for wants, and 20% for savings or debt repayment."
+          ]
+        },
+        {
+          "tag": "retirement_planning",
+          "patterns": [
+            "When should I start saving for retirement?",
+            "What are the best retirement plans?",
+            "How much money will I need for retirement?"
+          ],
+          "responses": [
+            "Start saving for retirement as early as possible to benefit from compound interest. Even small amounts help over time.",
+            "Popular retirement plans include 401(k)s, IRAs, and pensions. Consider employer contributions if available.",
+            "Estimate retirement needs based on your lifestyle and health. Financial planners recommend saving 10-15% of your income."
+          ]
+        },
+        {
+          "tag": "financial_goals",
+          "patterns": [
+            "How do I set financial goals?",
+            "What are short-term financial goals?",
+            "Examples of long-term financial goals?"
+          ],
+          "responses": [
+            "Set financial goals by making them SMART: Specific, Measurable, Achievable, Relevant, and Time-bound.",
+            "Short-term goals include building an emergency fund, saving for a vacation, or paying off credit cards within a year.",
+            "Long-term goals might involve buying a home, saving for retirement, or funding a child's education."
+          ]
+        },
+        {
+          "tag": "insurance",
+          "patterns": [
+            "Why do I need insurance?",
+            "What are the types of insurance?",
+            "How much insurance should I have?"
+          ],
+          "responses": [
+            "Insurance protects you financially against unexpected events like accidents, illnesses, or property damage.",
+            "Common types include health, life, auto, and homeowner's insurance. Each serves a specific purpose.",
+            "Coverage needs vary by individual. A financial advisor can help you determine adequate coverage."
+          ]
+        },
+        {
+          "tag": "student_loans",
+          "patterns": [
+            "What is the best way to repay student loans?",
+            "Can I refinance my student loans?",
+            "How do I reduce student loan debt?"
+          ],
+          "responses": [
+            "To repay loans, prioritize those with higher interest rates. Set up autopay to avoid missed payments.",
+            "Refinancing can lower your interest rate, but assess terms carefully to avoid losing federal loan benefits.",
+            "Reduce student debt by paying extra when possible and exploring loan forgiveness programs if eligible."
+          ]
+        },
+        {
+          "tag": "saving_for_education",
+          "patterns": [
+            "How can I save for my child's education?",
+            "What is a 529 plan?",
+            "Is education savings tax-deductible?"
+          ],
+          "responses": [
+            "Start an education savings plan like a 529 account, which offers tax advantages for educational expenses.",
+            "A 529 plan allows you to save and grow funds tax-free if used for qualified education costs.",
+            "Some savings plans have tax-deductible contributions. Check state and federal guidelines for details."
+          ]
+        },
     {
       "tag": "trading",
       "patterns": [
