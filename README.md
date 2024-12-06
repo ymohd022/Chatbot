@@ -21,7 +21,7 @@
         <li><b>Clone the Repository:</b></li>
         <pre>
 git clone https://github.com/ymohd022/Chatbot.git
-cd Chatbot
+cd Code
         </pre>
         <li><b>Install Dependencies:</b></li>
         <pre>
